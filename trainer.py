@@ -93,4 +93,4 @@ def trainer_synapse(args, model, snapshot_path):
             break
 
     writer.close()
-    return "Training Finished!"
+    return "Training Finished Haha!"
